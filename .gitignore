@@ -1,2 +1,4 @@
 producer/node_modules
 producer/node_modules/*
+consumer/node_modules
+consumer/node_modules/*
